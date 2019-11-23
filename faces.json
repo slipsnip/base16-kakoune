@@ -1,0 +1,47 @@
+{
+    "code": {
+        "value": "${base09}+b",
+        "type": "${base0A}",
+        "identifier": "${base08}",
+        "string": "${base0B}",
+        "error": "${base05},${base0B}",
+        "keyword": "${base0E}+b",
+        "operator": "${base05}",
+        "attribute": "${base09}",
+        "comment": "${base03}",
+        "meta": "${base0A}"
+    },
+    "markup": {
+        "title": "${base0D}",
+        "header": "${base0D}",
+        "bold": "${base0A}",
+        "italic": "${base09}",
+        "mono": "${base0B}",
+        "block": "${base09}",
+        "link": "${base0D}",
+        "bullet": "${base0B}",
+        "list": "${base08}"
+    },
+    "builtin": {
+        "Default": "${base05},${base00}",
+        "PrimarySelection": "${base07},${base0D}",
+        "SecondarySelection": "${base05},${base0D}",
+        "PrimaryCursor": "${base00},${base07}",
+        "SecondaryCursor": "${base00},${base05}",
+        "LineNumbers": "${base05},${base01}",
+        "LineNumberCursor": "${base05},rgb:282828+b",
+        "MenuForeground": "${base07},${base0D}",
+        "MenuBackground": "${base0D},${base01}",
+        "MenuInfo": "${base0D}",
+        "Information": "${base00},${base0D}",
+        "Error": "${base01},${base08}",
+        "StatusLine": "${base06},${base01}",
+        "StatusLineMode": "${base0A}",
+        "StatusLineInfo": "${base0D}",
+        "StatusLineValue": "${base0B}",
+        "StatusCursor": "${base02},${base0D}",
+        "Prompt": "${base0A},${base00}",
+        "MatchingChar": "${base0D},${base00}+b",
+        "BufferPadding": "${base0D},${base01}"
+    }
+}
