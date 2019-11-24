@@ -1,6 +1,6 @@
 # Fork of [base16-kakoune](https://github.com/Delapouite/base16-kakoune)
 
-modified to adhere to new syntax for kak colourschemes.  
+modified to adhere to new syntax for kak colorschemes.  
 `set-face <scope> <name> <facespec>`
 This is not a proper builder.  Converted to python script from javascript, stand-in untill I can write a proper base-16 builder for kakoune.
 
